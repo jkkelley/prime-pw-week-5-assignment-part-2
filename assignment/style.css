@@ -1,12 +1,14 @@
 .headline {
   background-color: #003366; /* Dark blue */
   color: #e6f2ff; /* light blue */
+  text-align: center;
 }
 
 .main-content {
   background-color: #d9d9d9; /* light grey */
   padding: 1em;
 }
+
 
 body {
   background-image: url('record.png');
