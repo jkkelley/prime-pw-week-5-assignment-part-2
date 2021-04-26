@@ -1,3 +1,9 @@
+body {
+  background-image: url('record.png');
+  background-repeat: repeat;
+  margin: 0;
+}
+
 .headline {
   background-color: #003366; /* Dark blue */
   color: #e6f2ff; /* light blue */
@@ -7,11 +13,15 @@
 .main-content {
   background-color: #d9d9d9; /* light grey */
   padding: 1em;
+  font-size: 20px;
 }
 
+.questions ul{
+  background-color: #99ccff;
+  font-size: 30px;
+  margin: 50px;
+}
 
-body {
-  background-image: url('record.png');
-  background-repeat: repeat;
-  margin: 0;
+.questions {
+  opacity: 90%;
 }
