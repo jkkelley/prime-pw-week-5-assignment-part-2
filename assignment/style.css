@@ -2,3 +2,12 @@ header {
   background-color: #003366;
   color: #e6f2ff;
 }
+
+main {
+  background-color: #d9d9d9;
+}
+
+body {
+  background-image: url('record.png');
+  background-repeat: repeat;
+}
