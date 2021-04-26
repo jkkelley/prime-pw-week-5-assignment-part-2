@@ -1,10 +1,11 @@
 header {
-  background-color: #003366;
-  color: #e6f2ff;
+  background-color: #003366; /* Dark blue */
+  color: #e6f2ff; /* light blue */
 }
 
 main {
-  background-color: #d9d9d9;
+  background-color: #d9d9d9; /* light grey */
+  padding: 1em;
 }
 
 body {
